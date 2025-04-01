@@ -34,7 +34,7 @@ The **Basic Payment Form** is a simple and elegant web form built using **HTML &
 ## 🔧 How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/rikream/payment-form.git
+   git clone https://github.com/rikream/payment_form.git
    ```
 2. Open `index.html` in any web browser.
 
